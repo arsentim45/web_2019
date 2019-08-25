@@ -4,8 +4,8 @@
 Original steps:
 1. Create github + write readme file (status: done, estimation:1 hours, remaining:0 hours)
 2. Create simple html page (status: done, estimation:4 hours, remaining:1 hours)
-3. Create css style for game (status: in development, estimation:6 hours, remaining:6 hours)
-4. Writing minimal js functionality(create functions/classes for pacman/ghost/field) (status: open, estimation:6 hours, remaining:6 hours)
+3. Create css style for game (status: done, estimation:6 hours, remaining:2 hours)
+4. Writing minimal js functionality(create functions/classes for pacman/ghost/field) (status: in development, estimation:6 hours, remaining:3 hours)
 5. Refactoring of current project state (status: open, estimation:2 hours, remaining:2 hours)
 6. Write whole gameplay functionality(this step requires that game should be already playable) (status: open, estimation:12 hours, remaining:12 hours)
 
